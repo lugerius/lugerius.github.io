@@ -21,7 +21,7 @@ date: '24-02-2021 11:13'
 
 Al conectar el cartucho Golden Axe en la consola Sega Genesis el juego no funciona, es decir que no manda señales de video ni se perciben sonidos, solo muestra una pantalla negra. Esta misma falla se puede presentar en cualquier otro cartucho de juego de Sega Genesis o de cualquier otra compañía. Por lo tanto el diagnóstico y posible solución al problema aplica para otras plataformas basadas en cartuchos.
 
-![Golden Axe](genesis_goldenaxe_label.jpg?resize=400,400)
+![Golden Axe](/assets/2024-05-08-Golden-Axe/genesis_goldenaxe_label.jpg?resize=400,400)
 
 #### Causas posibles
 
@@ -42,7 +42,7 @@ Usualmente la falla en cartuchos suele presentarse a causa de:
 
 Al abrir el juego notamos que aparentemente todo estaba bien, pero al revisar con mas detalle pudimos notar soldadura fría en algunos pines que conectan a la MASKROM con la tarjeta, es decir que ha perdido su brillo y flexibilidad por lo cual se nota opaca y agrietada, revelando claramente un falso contacto ocasionando falta de conductividad.
 
-![Soldadura fría](SoldaduraFria.PNG)
+![Soldadura fría](/assets/2024-05-08-Golden-Axe/SoldaduraFria.PNG)
 
 Motivo por el cual se recomienda hacer renovación de soldadura de todos los pines de la ROM en la pcb y no solamente en los detectados con falla. Esto debido a que si se tienen un par de pines con soldadura fría, es muy probable que en el futuro otros pines lleguen a presentar esta condicion al haber sido soldados en la misma fecha en toda la placa.
 
