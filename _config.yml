@@ -55,3 +55,4 @@ plugins:
 #Personal settings
 toc:
     enabled: true
+page_width: 90%
