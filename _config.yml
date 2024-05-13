@@ -57,9 +57,9 @@ toc:
     enabled: false
 page_width: 90%
 
-collections_dir: my_collections
-collections:
-  Arcades:
-    output: true
-  Consolas:
-    output: true
+# collections_dir: my_collections
+# collections:
+#   Arcades:
+#     output: true
+#   Consolas:
+#     output: true
