@@ -56,3 +56,9 @@ plugins:
 toc:
     enabled: true
 page_width: 90%
+
+collections:
+  Arcades:
+    output: true
+  Consolas:
+    output: true
