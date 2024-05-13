@@ -59,5 +59,7 @@ page_width: 90%
 
 collections_dir: my_collections
 collections:
-  - Arcades
-  - Consolas
+  Arcades:
+    output: true
+  Consolas:
+    output: true
