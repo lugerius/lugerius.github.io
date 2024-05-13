@@ -23,6 +23,4 @@ Documentación personal de reparaciones pcb's arcade, consolas de videojuegos y 
 
 ===
 
-{{ directorylisting }}
-
-===
+[Reparación Golden Axe Sega Genesis]({% post_url 2024-05-12-Sega_Genesis_Golden-Axe %})===
